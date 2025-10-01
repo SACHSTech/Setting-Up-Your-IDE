@@ -99,10 +99,8 @@ Make a small test edit in the repo such as adding a line to the `README.md` file
 
 1. In the sidebar, click on the **Source Control** view.
 2. You should see a list of **Changes** that will be a part of this Commit action. Think of it as a *snapshot of changes*.
-3. Type a short message in the **Message** box, describing the changes made. *IMPORTANT: YOU **MUST** TYPE A COMMIT MESSAGE!*
-
-![screenshot](images/05A.png)
-
+3. Type a short message in the **Message** box, describing the changes made. *IMPORTANT: YOU **MUST** TYPE A COMMIT MESSAGE!*  
+![screenshot](images/05A.png)  
 4. Click on **Commit** to record the snapshot.
 5. Next, click on **Sync** — a combined **Push** and **Pull** action — to push the changes to the GitHub repo online.
 
