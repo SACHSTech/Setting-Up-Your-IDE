@@ -59,17 +59,19 @@ Look for the **Clone Git Repository** option on the *Welcome* screen. If you don
 
 ### Step 4: Clone Your Repository
 GitHub Classroom should have generated a private repository for your work. Clone this repository to begin working on it.
-1. From the GitHub page for the repo, copy the URL for your fork to the clipboard:
+1. From the GitHub page for the repo, click on **Code** and copy the URL to the clipboard:
+
 ![cloning](images/04A.gif)
 
 2. In the new Visual Studio Code window, click on **Clone Git Repository**.
+
 3. Paste the URL from the clipboard into the text field at the top of the window (called the *Command Palette*) and press return.
 ![screenshot](images/04B.png)
 4. You'll be asked where you want to save this cloned folder, for example below, choose your *Documents* folder.  
 ![screenshot](images/04C.png)  
 5. Open your cloned repository.
 ![screenshot](images/04H.png)
-6. Authorize `Trust` for the folder contents.
+6. Authorize **Trust** for the folder contents.
 ![screenshot](images/04I.png)
 
 #### First Time? Configure GitHub!
