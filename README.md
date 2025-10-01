@@ -5,6 +5,8 @@ While this setup may seem complex at first, learning how to do it is valuable. P
 
 ## Installing Applications
 
+Most computers will require you to install the **Coding Pack for Java** and **Git**. Follow these instructions.
+
 ### Step 1: Install Visual Studio Code for Java
 Visual Studio Code has a [Coding Pack for Java](https://code.visualstudio.com/docs/languages/java) bundle that includes most of the components you'll need to start programming.
 
@@ -18,6 +20,10 @@ Download it [here](https://code.visualstudio.com/docs/languages/java) for Window
 Once you've downloaded the file, unzip the archive and run the installer.
 
 ![screenshot](images/01B.png)
+
+The Coding Pack is a one-stop install for appropriate versions of Visual Studio Code, Java Development Kit (JDK), and Java Extensions. 
+
+Unless you are confident in what you are doing, it is recommended to use this installer rather than to manually install each component piecemeal.
 
 ### Step 2: Install Git
 Download and run the appropriate git installer for your computing environment:
