@@ -1,5 +1,7 @@
 # Setting Up Your IDE
-A beginner's guide to setting up Visual Studio Code for Java on your own machine.
+Whether you’re working in our school lab or on your own computer at home, you’ll need to go through the process of installing and/or configuring your development environment. The lab machines don’t come fully set up, so you’ll still have to handle things like signing in, authorizing GitHub, and adjusting Visual Studio Code. 
+
+While this setup may seem complex at first, learning how to do it is valuable. Programmers everywhere are expected to configure their own tools. Once you’ve done it a couple of times, the process will feel much more routine.
 
 ## Installing Applications
 
